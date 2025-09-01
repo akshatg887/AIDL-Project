@@ -39,3 +39,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+LINKEDIN_COOKIE_SETUP.md
+MIGRATION_COMPLETE.md
